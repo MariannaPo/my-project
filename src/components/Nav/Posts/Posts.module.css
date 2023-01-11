@@ -1,0 +1,12 @@
+.posts {
+    width: 60px;
+    text-align: right;
+
+}
+.icons {
+    background-image: url("posts_img.png");
+    text-align: left;
+    position: absolute;
+    margin-right: 5px;
+}
+

@@ -1,12 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Header from "./components/Header/Header";
+import Nav from "./components/Nav/Nav";
 
 function App() {
-  return (
-      <Header />
-  )
+    return (
+        <div>
+            <Header/>
+            <Nav/>
+        </div>
+    )
 }
 
 export default App;
